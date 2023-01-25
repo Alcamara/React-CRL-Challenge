@@ -11,7 +11,7 @@
 }
 
 .hero-text {
-  width: 50%;
+  width: 60%;
 }
 
 .hero-h1 {
@@ -20,16 +20,18 @@
 }
 
 .hero-text p {
-  font-size: 1.3em;
+  color: rgb(218, 211, 211);
+  font-size: 1.1em;
   line-height: 1.7;
   margin-bottom: 4em;
 }
 
 .btn {
-  font-size: 2em;
+  font-size: 1.2em;
+  font-weight: bold;
   color: #000;
   background-color: rgba(56, 207, 217, 1);
-  padding: 0.5em 1.5em;
+  padding: 0.6em 1.1em;
   border-style: none;
   border-radius: 2rem;
 }

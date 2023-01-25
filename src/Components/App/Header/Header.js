@@ -13,7 +13,7 @@ export function Header() {
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam.
           </p>
-          <button className="btn">I want to Learn</button>
+          <button className="btn">I Want To Learn</button>
         </div>
       </div>
     </header>
